@@ -1,4 +1,4 @@
-# prueba
+# Lab. Comp. II
 Repositorio de prueba para comandos de github
 ## Autores
 - **Ojeda**, Agustina
